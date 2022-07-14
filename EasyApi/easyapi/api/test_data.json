@@ -1,0 +1,684 @@
+[
+    {
+        "AttributeName": {
+            "id": 1,
+            "nazev": "Barva"
+        }
+    },
+    {
+        "AttributeValue": {
+            "id": 1,
+            "hodnota": "modr\u00e1"
+        }
+    },
+    {
+        "AttributeValue": {
+            "id": 2,
+            "hodnota": "zelen\u00e1"
+        }
+    },
+    {
+        "AttributeValue": {
+            "id": 3,
+            "hodnota": "\u017elut\u00e1"
+        }
+    },
+    {
+        "AttributeValue": {
+            "id": 4,
+            "hodnota": "r\u016f\u017eov\u00e1"
+        }
+    },
+    {
+        "AttributeValue": {
+            "id": 5,
+            "hodnota": "\u010dern\u00e1"
+        }
+    },
+    {
+        "AttributeValue": {
+            "id": 6,
+            "hodnota": "b\u00edl\u00e1"
+        }
+    },
+    {
+        "AttributeValue": {
+            "id": 7,
+            "hodnota": "hn\u011bd\u00e1"
+        }
+    },
+    {
+        "AttributeValue": {
+            "id": 8,
+            "hodnota": "sv\u011btle modr\u00e1"
+        }
+    },
+    {
+        "AttributeValue": {
+            "id": 9,
+            "hodnota": "pr\u016fhledn\u00e1"
+        }
+    },
+    {
+        "AttributeName": {
+            "id": 2,
+            "nazev": "Odolnost",
+            "kod": "durability"
+        }
+    },
+    {
+        "AttributeValue": {
+            "id": 10,
+            "hodnota": "\u017e\u00e1dn\u00e1"
+        }
+    },
+    {
+        "AttributeValue": {
+            "id": 11,
+            "hodnota": "mal\u00e1"
+        }
+    },
+    {
+        "AttributeValue": {
+            "id": 12,
+            "hodnota": "st\u0159edn\u00ed"
+        }
+    },
+    {
+        "AttributeValue": {
+            "id": 13,
+            "hodnota": "velk\u00e1"
+        }
+    },
+    {
+        "AttributeValue": {
+            "id": 14,
+            "hodnota": "nezni\u010diteln\u00e1"
+        }
+    },
+    {
+        "AttributeName": {
+            "id": 3,
+            "nazev": "Povrch"
+        }
+    },
+    {
+        "AttributeValue": {
+            "id": 15,
+            "hodnota": "hladk\u00fd"
+        }
+    },
+    {
+        "AttributeValue": {
+            "id": 16,
+            "hodnota": "hrub\u00fd"
+        }
+    },
+    {
+        "AttributeValue": {
+            "id": 17,
+            "hodnota": "drsn\u00fd"
+        }
+    },
+    {
+        "AttributeValue": {
+            "id": 18,
+            "hodnota": "jemn\u00fd"
+        }
+    },
+    {
+        "AttributeValue": {
+            "id": 19,
+            "hodnota": "ano"
+        }
+    },
+    {
+        "AttributeValue": {
+            "id": 20,
+            "hodnota": "ne"
+        }
+    },
+    {
+        "Attribute": {
+            "id": 1,
+            "nazev_atributu_id": 1,
+            "hodnota_atributu_id": 1
+        }
+    },
+    {
+        "Attribute": {
+            "id": 2,
+            "nazev_atributu_id": 1,
+            "hodnota_atributu_id": 2
+        }
+    },
+    {
+        "Attribute": {
+            "id": 3,
+            "nazev_atributu_id": 1,
+            "hodnota_atributu_id": 3
+        }
+    },
+    {
+        "Attribute": {
+            "id": 4,
+            "nazev_atributu_id": 1,
+            "hodnota_atributu_id": 4
+        }
+    },
+    {
+        "Attribute": {
+            "id": 5,
+            "nazev_atributu_id": 1,
+            "hodnota_atributu_id": 5
+        }
+    },
+    {
+        "Attribute": {
+            "id": 6,
+            "nazev_atributu_id": 1,
+            "hodnota_atributu_id": 6
+        }
+    },
+    {
+        "Attribute": {
+            "id": 7,
+            "nazev_atributu_id": 1,
+            "hodnota_atributu_id": 7
+        }
+    },
+    {
+        "Attribute": {
+            "id": 8,
+            "nazev_atributu_id": 1,
+            "hodnota_atributu_id": 8
+        }
+    },
+    {
+        "Attribute": {
+            "id": 9,
+            "nazev_atributu_id": 1,
+            "hodnota_atributu_id": 9
+        }
+    },
+    {
+        "Attribute": {
+            "id": 10,
+            "nazev_atributu_id": 2,
+            "hodnota_atributu_id": 10
+        }
+    },
+    {
+        "Attribute": {
+            "id": 11,
+            "nazev_atributu_id": 2,
+            "hodnota_atributu_id": 11
+        }
+    },
+    {
+        "Attribute": {
+            "id": 12,
+            "nazev_atributu_id": 2,
+            "hodnota_atributu_id": 12
+        }
+    },
+    {
+        "Attribute": {
+            "id": 13,
+            "nazev_atributu_id": 2,
+            "hodnota_atributu_id": 13
+        }
+    },
+    {
+        "Attribute": {
+            "id": 14,
+            "nazev_atributu_id": 2,
+            "hodnota_atributu_id": 14
+        }
+    },
+    {
+        "Attribute": {
+            "id": 15,
+            "nazev_atributu_id": 3,
+            "hodnota_atributu_id": 15
+        }
+    },
+    {
+        "Attribute": {
+            "id": 16,
+            "nazev_atributu_id": 3,
+            "hodnota_atributu_id": 16
+        }
+    },
+    {
+        "Attribute": {
+            "id": 17,
+            "nazev_atributu_id": 3,
+            "hodnota_atributu_id": 17
+        }
+    },
+    {
+        "Attribute": {
+            "id": 18,
+            "nazev_atributu_id": 3,
+            "hodnota_atributu_id": 18
+        }
+    },
+    {
+        "AttributeName": {
+            "id": 4,
+            "nazev": "displej",
+            "zobrazit": true
+        }
+    },
+    {
+        "AttributeName": {
+            "id": 1,
+            "zobrazit": true
+        }
+    },
+    {
+        "AttributeName": {
+            "id": 2,
+            "zobrazit": true
+        }
+    },
+    {
+        "AttributeName": {
+            "id": 3,
+            "zobrazit": true
+        }
+    },
+    {
+        "Attribute": {
+            "id": 19,
+            "nazev_atributu_id": 4,
+            "hodnota_atributu_id": 19
+        }
+    },
+    {
+        "Attribute": {
+            "id": 20,
+            "nazev_atributu_id": 4,
+            "hodnota_atributu_id": 20
+        }
+    },
+    {
+        "Product": {
+            "id": 1,
+            "nazev": "Whirlpool B TNF 5323 OX",
+            "description": "Voln\u011b stoj\u00edc\u00ed kombinovan\u00e1 ledni\u010dka se \u0161est\u00fdm smyslem. D\u00edky tomuto \u0161est\u00e9mu smyslu FreshLock dok\u00e1\u017ee obnovit teplotu 5\u00d7 rychleji",
+            "cena": "21566",
+            "mena": "CZK",
+            "published_on": null,
+            "is_published": false
+        }
+    },
+    {
+        "ProductAttributes": {
+            "id": 1,
+            "attribute": 19,
+            "product": 1
+        }
+    },
+    {
+        "ProductAttributes": {
+            "id": 2,
+            "attribute": 4,
+            "product": 1
+        }
+    },
+    {
+        "ProductAttributes": {
+            "id": 3,
+            "attribute": 18,
+            "product": 1
+        }
+    },
+    {
+        "Image": {
+            "id": 1,
+            "obrazek": "https://free-images.com/or/4929/fridge_t_png.jpg"
+        }
+    },
+    {
+        "ProductImage": {
+            "id": 1,
+            "product": 1,
+            "obrazek_id": 1,
+            "nazev": "hlavn\u00ed foto"
+        }
+    },
+    {
+        "Image": {
+            "id": 2,
+            "nazev": "pln\u00e1 lednice",
+            "obrazek": "https://free-images.com/or/ccc6/faulty_fridge_lighting_led_0.jpg"
+        }
+    },
+    {
+        "ProductImage": {
+            "id": 2,
+            "product": 1,
+            "obrazek_id": 2,
+            "nazev": "galerie"
+        }
+    },
+    {
+        "Image": {
+            "id": 3,
+            "obrazek": "https://free-images.com/md/df12/faulty_shelf_lighting_led.jpg"
+        }
+    },
+    {
+        "Product": {
+            "id": 2,
+            "nazev": "Vans Old Skool black",
+            "description": "Tohle prost\u011b mus\u00ed\u0161 m\u00edt. Unisex boty Vans Old Skool jsou snad povinnost pro ka\u017ed\u00e9ho skej\u0165\u00e1ka a rockera t\u011blem i du\u0161\u00ed. Tradi\u010dn\u00ed konstrukce a vzhled prost\u011b nezklame",
+            "cena": "1466.00",
+            "mena": "CZK",
+            "published_on": "2018-01-15T00:00:00Z",
+            "is_published": false
+        }
+    },
+    {
+        "ProductAttributes": {
+            "id": 4,
+            "attribute": 6,
+            "product": 2
+        }
+    },
+    {
+        "ProductAttributes": {
+            "id": 5,
+            "attribute": 11,
+            "product": 2
+        }
+    },
+    {
+        "ProductImage": {
+            "id": 3,
+            "product": 2,
+            "obrazek_id": 3,
+            "nazev": "hlavn\u00ed foto"
+        }
+    },
+    {
+        "AttributeName": {
+            "id": 5,
+            "nazev": "Skladem"
+        }
+    },
+    {
+        "Attribute": {
+            "id": 21,
+            "nazev_atributu_id": 5,
+            "hodnota_atributu_id": 19
+        }
+    },
+    {
+        "Attribute": {
+            "id": 22,
+            "nazev_atributu_id": 5,
+            "hodnota_atributu_id": 20
+        }
+    },
+    {
+        "ProductAttributes": {
+            "id": 6,
+            "attribute": 21,
+            "product": 2
+        }
+    },
+    {
+        "ProductAttributes": {
+            "id": 7,
+            "attribute": 22,
+            "product": 1
+        }
+    },
+    {
+        "Image": {
+            "id": 4,
+            "obrazek": "https://free-images.com/lg/7687/blue_jay_bird_nature.jpg"
+        }
+    },
+    {
+        "Product": {
+            "id": 3,
+            "nazev": "Daniel Wellington DW00100164",
+            "description": "M\u00f3dn\u00ed hodinky Daniel Wellington z kolekce Classic Petite Sterling. Ide\u00e1ln\u00ed dopln\u011bk pro \u017eeny up\u0159ednost\u0148uj\u00edc\u00ed analogov\u00e9 a kulat\u00e9 hodinky",
+            "cena": "11278.00",
+            "mena": "CZK",
+            "published_on": "2017-11-15T00:55:00Z",
+            "is_published": true
+        }
+    },
+    {
+        "AttributeName": {
+            "id": 6,
+            "nazev": "Sleva"
+        }
+    },
+    {
+        "Attribute": {
+            "id": 23,
+            "nazev_atributu_id": 6,
+            "hodnota_atributu_id": 19
+        }
+    },
+    {
+        "Attribute": {
+            "id": 24,
+            "nazev_atributu_id": 6,
+            "hodnota_atributu_id": 20
+        }
+    },
+    {
+        "ProductAttributes": {
+            "id": 8,
+            "attribute": 7,
+            "product": 3
+        }
+    },
+    {
+        "ProductAttributes": {
+            "id": 9,
+            "attribute": 24,
+            "product": 3
+        }
+    },
+    {
+        "ProductAttributes": {
+            "id": 10,
+            "attribute": 21,
+            "product": 3
+        }
+    },
+    {
+        "ProductAttributes": {
+            "id": 11,
+            "attribute": 13,
+            "product": 3
+        }
+    },
+    {
+        "Image": {
+            "id": 5,
+            "obrazek": "https://free-images.com/or/a09b/watch_time_ladies_watch_0.jpg"
+        }
+    },
+    {
+        "ProductImage": {
+            "id": 4,
+            "product": 3,
+            "obrazek_id": 5,
+            "nazev": "hlavn\u00ed foto"
+        }
+    },
+    {
+        "Image": {
+            "id": 3,
+            "obrazek": "https://free-images.com/lg/ff5f/shoe_handmade_shoes_dress.jpg"
+        }
+    },
+    {
+        "Product": {
+            "id": 4,
+            "nazev": "Tempish Dream Lady",
+            "description": "Elegantn\u00ed, zateplen\u00e9, pohodln\u00e9 d\u00e1msk\u00e9 ledn\u00ed brusle v tradi\u010dn\u00edm b\u00edl\u00e9m proveden\u00ed. Ide\u00e1ln\u00ed pro rekrea\u010dn\u00ed bruslen\u00ed. Uvnit\u0159 se m\u016f\u017eete t\u011b\u0161it na anatomickou band\u00e1\u017e s pam\u011bt\u00ed",
+            "cena": "986.00",
+            "mena": "CZK",
+            "is_published": false
+        }
+    },
+    {
+        "AttributeValue": {
+            "id": 21,
+            "hodnota": "p\u00e1nsk\u00e9"
+        }
+    },
+    {
+        "AttributeValue": {
+            "id": 22,
+            "hodnota": "d\u00e1msk\u00e9"
+        }
+    },
+    {
+        "AttributeValue": {
+            "id": 23,
+            "hodnota": "d\u011btsk\u00e9"
+        }
+    },
+    {
+        "AttributeName": {
+            "id": 7,
+            "nazev": "Ur\u010den\u00ed",
+            "zobrazit": true
+        }
+    },
+    {
+        "Attribute": {
+            "id": 25,
+            "nazev_atributu_id": 7,
+            "hodnota_atributu_id": 21
+        }
+    },
+    {
+        "Attribute": {
+            "id": 26,
+            "nazev_atributu_id": 7,
+            "hodnota_atributu_id": 22
+        }
+    },
+    {
+        "Attribute": {
+            "id": 27,
+            "nazev_atributu_id": 7,
+            "hodnota_atributu_id": 23
+        }
+    },
+    {
+        "ProductAttributes": {
+            "id": 12,
+            "attribute": 26,
+            "product": 4
+        }
+    },
+    {
+        "ProductAttributes": {
+            "id": 13,
+            "attribute": 6,
+            "product": 4
+        }
+    },
+    {
+        "ProductAttributes": {
+            "id": 14,
+            "attribute": 21,
+            "product": 4
+        }
+    },
+    {
+        "Product": {
+            "id": 2,
+            "cena": "900"
+        }
+    },
+    {
+        "Image": {
+            "id": 6,
+            "obrazek": "https://free-images.com/md/faa5/teddy_bear_sheep_toys.jpg"
+        }
+    },
+    {
+        "Product": {
+            "id": 5,
+            "nazev": "Funko Pop God of War Kratos",
+            "description": "Kratos, otec Atrea, se do\u010dkal sv\u00e9 vinylov\u00e9 POP! figurky od spole\u010dnosti Funko.",
+            "cena": "800",
+            "mena": "CZK",
+            "is_published": true
+        }
+    },
+    {
+        "Catalog": {
+            "id": 1,
+            "nazev": "V\u00fdprodej 2018",
+            "obrazek_id": 4,
+            "products_ids": [
+                1,
+                2,
+                3,
+                4,
+                5
+            ],
+            "attributes_ids": [
+                2,
+                4,
+                21,
+                23
+            ]
+        }
+    },
+    {
+        "ProductImage": {
+            "id": 5,
+            "product": 5,
+            "obrazek_id": 6,
+            "nazev": "hlavn\u00ed foto"
+        }
+    },
+    {
+        "ProductAttributes": {
+            "id": 15,
+            "attribute": 21,
+            "product": 5
+        }
+    },
+    {
+        "ProductAttributes": {
+            "id": 16,
+            "attribute": 2,
+            "product": 5
+        }
+    },
+    {
+        "ProductAttributes": {
+            "id": 17,
+            "attribute": 27,
+            "product": 5
+        }
+    },
+    {
+        "Catalog": {
+            "id": 1,
+            "products_ids": [
+                1,
+                2,
+                3,
+                5
+            ]
+        }
+    }
+]
