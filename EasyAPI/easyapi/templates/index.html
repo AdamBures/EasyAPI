@@ -1,0 +1,62 @@
+<html><head><style>body {
+   color: black;
+}
+</style></head><body><h1 id="easyapi">EasyAPI</h1>
+<p>EasyAPI je jednoduché API vytvořené za pomocí Django Rest Framework.</p>
+<h2 id="instalace">Instalace</h2>
+<p>Použijeme PIP k nainstalování potřebných modulů ze souboru requirements.txt</p>
+<pre><code class="lang-bash">pip <span class="hljs-keyword">install</span> -r /<span class="hljs-keyword">path</span>/<span class="hljs-keyword">to</span>/requirements.txt
+</code></pre>
+<h2 id="spu-t-n-">Spuštění</h2>
+<p>Aplikaci spustíme za pomocí příkazu:</p>
+<pre><code class="lang-bash">pip /path/to/manage<span class="hljs-selector-class">.py</span> runserver
+</code></pre>
+<p>Po přesměrování na <a href="http://127.0.0.1:8000/">http://127.0.0.1:8000/</a> uvidíme 404 Error a pod ním výpis možných cest v našem API.</p>
+<h3 id="-import">/import</h3>
+<p>Tato cesta nás odkáže na POST metodu díky které můžeme do našeho API přidávat další JSON obsah.</p>
+<h3 id="-detail">/detail</h3>
+<p>Tato cesta nám vypíše za pomocí GET metody celý obsah našeho API</p>
+<h3 id="detail-str-model-">detail/str:model</h3>
+<p>Tato cesta nám vypíše všechen obsah spojený s daným modelem v našem JSON API
+Například: </p>
+<pre><code class="lang-bash">http:<span class="hljs-regexp">//</span><span class="hljs-number">127.0</span>.<span class="hljs-number">0.1</span>:<span class="hljs-number">8000</span><span class="hljs-regexp">/detail/</span>AttributeValue
+</code></pre>
+<p>Vypíše:</p>
+<pre><code class="lang-json">[
+    {
+        <span class="hljs-attr">"AttributeValue"</span>: {
+            <span class="hljs-attr">"id"</span>: <span class="hljs-number">1</span>,
+            <span class="hljs-attr">"hodnota"</span>: <span class="hljs-string">"modrá"</span>
+        }
+    },
+    {
+        <span class="hljs-attr">"AttributeValue"</span>: {
+            <span class="hljs-attr">"id"</span>: <span class="hljs-number">2</span>,
+            <span class="hljs-attr">"hodnota"</span>: <span class="hljs-string">"zelená"</span>
+        }
+    },
+    {
+        <span class="hljs-attr">"AttributeValue"</span>: {
+            <span class="hljs-attr">"id"</span>: <span class="hljs-number">3</span>,
+            <span class="hljs-attr">"hodnota"</span>: <span class="hljs-string">"žlutá"</span>
+        }
+    }]
+</code></pre>
+<h3 id="detail-str-model-int-model_id-">detail/str:model/int:model_id</h3>
+<p>Tato cesta nám vypíše všechen obsah spojený s modelem s daným indexem v našem JSON API
+Například: </p>
+<pre><code class="lang-bash">http:<span class="hljs-regexp">//</span><span class="hljs-number">127.0</span>.<span class="hljs-number">0.1</span>:<span class="hljs-number">8000</span><span class="hljs-regexp">/detail/</span>AttributeValue<span class="hljs-regexp">/1</span>
+</code></pre>
+<p>Vypíše:</p>
+<pre><code class="lang-json">[
+    {
+        <span class="hljs-attr">"AttributeValue"</span>: {
+            <span class="hljs-attr">"id"</span>: <span class="hljs-number">1</span>,
+            <span class="hljs-attr">"hodnota"</span>: <span class="hljs-string">"modrá"</span>
+        }
+    }
+]
+</code></pre>
+<h2 id="licence">Licence</h2>
+<p><a href="https://choosealicense.com/licenses/mit/">MIT</a></p>
+</body></html>
